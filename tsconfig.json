@@ -1,0 +1,15 @@
+{
+        "compilerOptions": {
+                "target": "esnext",
+                "watch": true,
+                "outDir": "formTS",
+                "lib": [
+                        "DOM",
+                        "ES2017"
+                ],
+                "outFile": "script.js"
+        },
+        "include": [
+                "ts/*"
+        ]
+}
